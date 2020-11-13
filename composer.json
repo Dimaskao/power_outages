@@ -1,0 +1,9 @@
+{
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.16",
+        "phpoffice/phpspreadsheet": "^1.15"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "../power_outages/"}
+    }
+}
